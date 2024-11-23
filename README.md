@@ -132,6 +132,10 @@ The training pipeline includes:
   - Model gradients
 - Automatic model checkpointing
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
 ## 🤝 Contributing
 
 1. Fork the repository
